@@ -1,0 +1,28 @@
+  
+.bold{
+    font-weight: bold;
+}
+
+.descriptor{
+    display: flex;
+}
+
+.descriptor input{
+    margin: 0px 6px 0px 6px;
+}
+
+.logo{
+    font-size: 24px;
+    text-align: center;
+    color: black;
+}
+
+.navbar{
+    display: flex;
+    background-color: rgba(56, 121, 219, 0.712);
+    color: black;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 10px 5px 10px 5px;
+    
+}
